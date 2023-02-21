@@ -1,0 +1,17 @@
+.test_img{
+    width: 50px;
+    border-radius: 100px;
+    margin-left: 40%;
+    margin-right: 20px;
+    margin-top: -40px;
+   
+}
+.Field_style{
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.Email_style{
+    margin-top: 20px;
+}

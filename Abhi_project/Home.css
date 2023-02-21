@@ -1,0 +1,35 @@
+.Button_signup {
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    background-color: rgb(73, 73, 180);
+    border-radius: 5px;
+    color: white;
+}
+.Button_signup:hover{
+  background-color: blue;
+}
+.Login {
+    padding: 10px;
+    margin: 5px;
+    text-decoration: none;
+    background-color: rgb(73, 73, 169);
+    border-radius: 5px;
+    color: white;
+   
+}
+.Login:hover{
+    background-color: blue;
+}
+.border-hr{
+    width: 150px;
+}
+.button{
+    margin-top: 20px;
+    padding: 10px;
+}
+.Logo_img{
+    width: 100px;
+    margin-left: 40%;
+    padding: 10px;
+}

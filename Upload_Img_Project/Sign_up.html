@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <fieldset style="width: 30%;margin: auto;margin-top: 10%;padding: 20px;">
+        <legend>Sign Up</legend>
+        <img class="Logo_img" src="logo_admin.png" alt="">
+        <table style="margin: auto;">
+            <form action="InsertPage.php" method="post" enctype="multipart/form-data" >
+                <tr>
+                    <td>Id:</td>
+                    <td><input type="text" required name="Id" ></td>
+                </tr>
+                <tr>
+                    
+                <tr>
+                    <td>Name:</td>
+                    <td><input type="text" required name="Name" ></td>
+                </tr>
+                <tr>
+                    <td>Profile Pic:</td>
+                    <td><input type="file" required name="file" ></td>
+                </tr>
+                <tr>
+                    <td><input type="submit"></td>
+                </tr>
+            </form>
+        </table>
+        <p style="text-align: center; ">Go To <a  href="Home.php">Home Page </a></p>
+        
+    </fieldset>
+
+</body>
+</html>
