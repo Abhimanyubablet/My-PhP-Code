@@ -15,10 +15,10 @@ function factors( $a,$n,$b,$m ) {
 	return $table;
 }
 
-$nFactors = factors(2,20,1,10);
+$abhi = factors(2,20,1,10);
 echo "Table : " . "<br>" ;
 
-foreach( $nFactors as $x ) {
+foreach( $abhi as $x ) {
 	echo $x . "<br>";
 }
 

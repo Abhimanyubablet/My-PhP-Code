@@ -64,7 +64,7 @@
         </form>
     </table>
 
-    <!-- <a classname="m-auto" href="View.php ">Tap here for <button> View </button></a> -->
+   
 </body>
 </html>
 <?php

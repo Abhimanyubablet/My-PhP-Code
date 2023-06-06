@@ -14,8 +14,7 @@ Function Tab($a,$b)
     }
     return $arr;
 }
-echo "<pre
->";
+echo "<pre>";
 print_r( Tab (20,10));
 echo "</pre>";
 

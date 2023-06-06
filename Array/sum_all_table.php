@@ -1,5 +1,4 @@
 <?php
-
 function factors( $n,$m ) {
 	$t=1;
     $sum=0;
